@@ -159,7 +159,7 @@ $$
 
 R² = 0.8224,说明拟合效果良好。
 Zipf 双对数图如下
-![zipf_cn_loglog 图](analysis_output\zipf_cn_loglog.png)
+![zipf_cn_loglog 图](analysis_output/zipf_cn_loglog.png)
 ### 6.3 扩容分析结果
 扩容趋势表
 
@@ -184,6 +184,7 @@ Zipf 双对数图如下
 | \[2] | Shannon, C. E. *A Mathematical Theory of Communication.* 1948.        |
 | \[3] | 国家语言资源监测与研究中心，《现代汉语语料库统计报告》。                                          |
 | \[4] | Wikipedia: [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)   |
+
 
 
 
